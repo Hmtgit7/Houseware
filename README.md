@@ -152,4 +152,6 @@ Render the Main component with an empty list of todos. Confirm the presence of t
 
 # Case 3: Toggle All Todos When "Toggle All" Checkbox is Clicked
 
-Render the Main component with a list of todos and a mock dispatch function. Simulate clicking the "Toggle All" checkbox. Use waitFor to wait for asynchronous updates. Confirm that the dispatch function is called with the correct action when toggling all todos.
+Render the Main component with a list of todos and a mock dispatch function. Simulate clicking the "Toggle All" checkbox. Use waitFor to wait for asynchronous updates. Confirm that the dispatch function is called with the correct action when toggling all todos.Implementation Details: Component File:
+
+The Main component is located at todo/components/main.jsx.
